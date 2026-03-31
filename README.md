@@ -61,6 +61,29 @@ Output Broadcast to Clients
 
 ---
 
+## 📸 Demo / Screenshots
+
+### 🧑‍💻 Real-Time Code Synchronization
+Multiple users can edit code simultaneously with instant updates across all connected clients.
+
+![Real-Time Sync](assets/synch.jpg)
+
+---
+
+### ⏱️ Execution Timeout Handling
+Prevents crashes by safely terminating long-running or infinite loops using execution time limits.
+
+![Execution Timeout](assets/loop.jpg)
+
+---
+
+### ❌ Runtime Error Handling
+Captures runtime errors and broadcasts them to all users in the session in real-time.
+
+![Runtime Error](assets/error.jpg)
+
+---
+
 ## 🧠 Key Design Decisions
 
 - **FIFO Queue System**  
