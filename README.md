@@ -154,8 +154,8 @@ Illustrates how runtime errors are captured and broadcast to all users in the se
 ## Author
 
 Your Name
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/Ddia05
+LinkedIn: https://www.linkedin.com/in/diyadhivakar05
 
 ---
 
