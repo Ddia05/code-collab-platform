@@ -1,10 +1,10 @@
-# 💻 Real-Time Collaborative Coding Platform
+# Real-Time Collaborative Coding Platform
 
 A scalable real-time coding platform that enables multiple users to join shared rooms, collaborate on code simultaneously, and execute programs securely with controlled concurrency and live output synchronization.
 
 ---
 
-## 🚀 Highlights
+##  Highlights
 
 - Real-time collaboration using WebSockets (Socket.IO)
 - Room-based multi-user architecture
@@ -16,7 +16,7 @@ A scalable real-time coding platform that enables multiple users to join shared 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Live code editing and synchronization across multiple users
 - Multi-user collaboration via unique room IDs
@@ -29,7 +29,7 @@ A scalable real-time coding platform that enables multiple users to join shared 
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 <p align="center">
 Client (Frontend)<br>
@@ -48,7 +48,7 @@ Output Broadcast to Clients
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Users join a shared room using a unique room ID  
 2. Code changes are instantly synchronized across all connected clients via WebSockets  
@@ -61,9 +61,9 @@ Output Broadcast to Clients
 
 ---
 
-## 📸 Demo / Screenshots
+##  Demo / Screenshots
 
-### 🧑‍💻 Real-Time Code Synchronization
+###  Real-Time Code Synchronization
 Multiple users can edit code simultaneously with instant updates across all connected clients.
 
 ![Real-Time Sync](assets/synch.jpg)
@@ -77,14 +77,14 @@ Prevents crashes by safely terminating long-running or infinite loops using exec
 
 ---
 
-### ❌ Runtime Error Handling
+###  Runtime Error Handling
 Captures runtime errors and broadcasts them to all users in the session in real-time.
 
 ![Runtime Error](assets/error.jpg)
 
 ---
 
-## 🧠 Key Design Decisions
+##  Key Design Decisions
 
 - **FIFO Queue System**  
   Ensures fair and ordered execution while preventing server overload  
@@ -103,7 +103,7 @@ Captures runtime errors and broadcasts them to all users in the session in real-
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Node.js, Express.js  
 - **Real-Time Communication:** Socket.IO  
@@ -113,7 +113,7 @@ Captures runtime errors and broadcasts them to all users in the session in real-
 
 ---
 
-## 📦 Installation
+##  Installation
 
 git clone https://github.com/Ddia05/code-collab-platform
 
