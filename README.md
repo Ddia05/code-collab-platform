@@ -70,7 +70,7 @@ Multiple users can edit code simultaneously with instant updates across all conn
 
 ---
 
-### ⏱️ Execution Timeout Handling
+###  Execution Timeout Handling
 Prevents crashes by safely terminating long-running or infinite loops using execution time limits.
 
 ![Execution Timeout](assets/loop.jpg)
